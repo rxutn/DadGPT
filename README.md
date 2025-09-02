@@ -6,6 +6,7 @@
 ## What is DadGPT?
 
 A father figure for those who grew up without one 👨🏻
+
 DadGPT is an AI designed for men who grew up without a reliable male role model.
 
 DadGPT offers emotional support, mentoring, advice, and guidance to help men overcome the challenges they face.
@@ -48,7 +49,9 @@ DadGPT is accessible to all individuals aged 13 and older with parental consent 
 ## How was it trained?
 
 DadGPT has been trained on numerous resources, including scientific publications, university psychology courses, testimonial podcasts, and even self-help books related to the challenges of growing up in a dysfunctional family with an absent father.
+
 DadGPT is trained to be respectful of LGBTQI+ sexual and gender identities 🏳️‍🌈
+
 It’s a safe space to ask your questions, reflect, and build your own path.
 
 ## In which languages can we talk to DadGPT?
@@ -60,7 +63,9 @@ It is theoretically possible to interact in other languages — which are genera
 ## Is it private?
 
 Yes! We cannot access your conversations with DadGPT under any circumstances, even for technical improvement purposes.
+
 Messages exchanged with DadGPT are not used to train the GPT-4o model on which it is based.
+
 DadGPT is hosted by OpenAI, whose [Privacy Policy](https://openai.com/policies/row-privacy-policy/) and [Terms of Service](https://openai.com/policies/row-terms-of-use/) apply.
 
 The retention period for conversations with DadGPT cannot exceed 31 days in accordance with [OpenAI's Terms of Service](https://openai.com/policies/).
