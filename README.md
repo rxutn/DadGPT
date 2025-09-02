@@ -1,4 +1,4 @@
-![a47e1922-a19c-463a-bb76-7e5baf014448_2048x2048](https://github.com/user-attachments/assets/539b315d-62e3-47e2-94d6-68846074e96b)
+<img width="150" height="150" alt="DadGPT 👨🏻" src="https://github.com/user-attachments/assets/d74a7542-b7fe-4df7-888c-271bde756c9f" />
 
 
 # DadGPT - A Father Figure for Those Who Grew Up Without One 👨🏻
