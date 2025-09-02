@@ -17,6 +17,8 @@ You can talk to it, ask questions, seek opinions or advice — without judgment,
 You can discuss anything: relationships, career, self-confidence, emotions, life choices…  
 It provides a stable presence, practical advice, and direct answers to questions that are not always easy to ask.
 
+[![Chat Now](https://img.shields.io/badge/Chat%20Now-4285F4?style=for-the-badge&logo=chat&logoColor=white)](https://dadgpt.anatole.co)
+
 ## Is it (really) free?
 
 Yes!
@@ -35,6 +37,8 @@ The operating costs of DadGPT are covered by private funding.
 - **Life Choices** - Major decisions, goal setting, personal direction
 - **Personal Growth** - Self-improvement, habits, mindset development
 - **Daily Challenges** - Everyday problems that need a mature perspective
+
+[![Chat Now](https://img.shields.io/badge/Chat%20Now-4285F4?style=for-the-badge&logo=chat&logoColor=white)](https://dadgpt.anatole.co)
 
 ## Who can use it?
 
@@ -87,6 +91,3 @@ If you or someone close to you is facing significant psychological difficulties 
 **⚠️ DadGPT is not a psychologist and is not intended to replace psychotherapy.**
 
 **Artificial intelligence (AI) is an experimental and constantly evolving technology.**
-
-
-[![Chat Now](https://img.shields.io/badge/Chat%20Now-4285F4?style=for-the-badge&logo=chat&logoColor=white)](https://dadgpt.anatole.co)
