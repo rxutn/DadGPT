@@ -22,7 +22,7 @@ It provides a stable presence, practical advice, and direct answers to questions
 Yes!
 
 DadGPT is truly free and will remain so: No ads, no trial period, and no premium version.
-DadGPT is based on GPT-4o and is [hosted by OpenAI](https://chatgpt.com/g/g-6874b441f6b48191b12e04a7417369b4-dadgpt?model=gpt-4o).
+DadGPT is based on GPT-4o and is hosted by **OpenAI**.
 
 The operating costs of DadGPT are covered by private funding.
 
@@ -87,3 +87,6 @@ If you or someone close to you is facing significant psychological difficulties 
 **⚠️ DadGPT is not a psychologist and is not intended to replace psychotherapy.**
 
 **Artificial intelligence (AI) is an experimental and constantly evolving technology.**
+
+
+[![Chat Now](https://img.shields.io/badge/Chat%20Now-4285F4?style=for-the-badge&logo=chat&logoColor=white)](https://dadgpt.anatole.co)
