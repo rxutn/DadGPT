@@ -1,4 +1,5 @@
-![DadGPT Logo](attached_assets/dadgpt_1756850420607.png)
+![a47e1922-a19c-463a-bb76-7e5baf014448_2048x2048](https://github.com/user-attachments/assets/539b315d-62e3-47e2-94d6-68846074e96b)
+
 
 # DadGPT - A Father Figure for Those Who Grew Up Without One 👨🏻
 
